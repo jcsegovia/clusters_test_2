@@ -1,0 +1,2277 @@
+Sources file: ./test_2/AA_661_A118/output/gaia_query_UBC1565_gaiaedr3.gaia_source.csv
+
+Model parameters: {'algorithm': 'auto', 'cluster_method': 'xi', 'eps': None, 'leaf_size': 30, 'max_eps': inf, 'metric': 'minkowski', 'metric_params': None, 'min_cluster_size': None, 'min_samples': 5, 'n_jobs': None, 'p': 2, 'predecessor_correction': True, 'xi': 0.05}
+
+Sources count: 269 +75%
+
+Reading ./test_2/AA_661_A118/output/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_75.csv
+
+Estimated number of clusters: 27
+Estimated number of noise points: 258
+Silhoutte score: -0.19216444298879432
+
+
+Main plot ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_75_all_clusters.png
+Main csv ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_75_all_clusters.csv
+
+
+Cluster 0 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_75_cluster_0.png
+Catalogued sources found in cluster 0: 0 (0.0%)
+Extra elements found: 9
+Catalogued sources not found in cluster: 269
+
+
+Cluster 1 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_75_cluster_1.png
+Catalogued sources found in cluster 1: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 2 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_75_cluster_2.png
+Catalogued sources found in cluster 2: 11 (4.1%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 258
+
+
+Cluster 3 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_75_cluster_3.png
+Catalogued sources found in cluster 3: 5 (1.9%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 264
+
+
+Cluster 4 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_75_cluster_4.png
+Catalogued sources found in cluster 4: 9 (3.3%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 260
+
+
+Cluster 5 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_75_cluster_5.png
+Catalogued sources found in cluster 5: 13 (4.8%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 256
+
+
+Cluster 6 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_75_cluster_6.png
+Catalogued sources found in cluster 6: 8 (3.0%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 261
+
+
+Cluster 7 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_75_cluster_7.png
+Catalogued sources found in cluster 7: 6 (2.2%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 263
+
+
+Cluster 8 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_75_cluster_8.png
+Catalogued sources found in cluster 8: 16 (5.9%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 253
+
+
+Cluster 9 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_75_cluster_9.png
+Catalogued sources found in cluster 9: 9 (3.3%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 260
+
+
+Cluster 10 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_75_cluster_10.png
+Catalogued sources found in cluster 10: 8 (3.0%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 261
+
+
+Cluster 11 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_75_cluster_11.png
+Catalogued sources found in cluster 11: 7 (2.6%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 262
+
+
+Cluster 12 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_75_cluster_12.png
+Catalogued sources found in cluster 12: 5 (1.9%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 264
+
+
+Cluster 13 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_75_cluster_13.png
+Catalogued sources found in cluster 13: 6 (2.2%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 263
+
+
+Cluster 14 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_75_cluster_14.png
+Catalogued sources found in cluster 14: 7 (2.6%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 262
+
+
+Cluster 15 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_75_cluster_15.png
+Catalogued sources found in cluster 15: 8 (3.0%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 261
+
+
+Cluster 16 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_75_cluster_16.png
+Catalogued sources found in cluster 16: 8 (3.0%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 261
+
+
+Cluster 17 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_75_cluster_17.png
+Catalogued sources found in cluster 17: 12 (4.5%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 257
+
+
+Cluster 18 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_75_cluster_18.png
+Catalogued sources found in cluster 18: 5 (1.9%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 264
+
+
+Cluster 19 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_75_cluster_19.png
+Catalogued sources found in cluster 19: 0 (0.0%)
+Extra elements found: 9
+Catalogued sources not found in cluster: 269
+
+
+Cluster 20 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_75_cluster_20.png
+Catalogued sources found in cluster 20: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 21 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_75_cluster_21.png
+Catalogued sources found in cluster 21: 0 (0.0%)
+Extra elements found: 9
+Catalogued sources not found in cluster: 269
+
+
+Cluster 22 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_75_cluster_22.png
+Catalogued sources found in cluster 22: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 23 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_75_cluster_23.png
+Catalogued sources found in cluster 23: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 24 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_75_cluster_24.png
+Catalogued sources found in cluster 24: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 25 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_75_cluster_25.png
+Catalogued sources found in cluster 25: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 26 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_75_cluster_26.png
+Catalogued sources found in cluster 26: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Sources count: 269 +100%
+
+Reading ./test_2/AA_661_A118/output/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_100.csv
+
+Estimated number of clusters: 24
+Estimated number of noise points: 347
+Silhoutte score: -0.29980669419071515
+
+
+Main plot ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_100_all_clusters.png
+Main csv ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_100_all_clusters.csv
+
+
+Cluster 0 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_100_cluster_0.png
+Catalogued sources found in cluster 0: 7 (2.6%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 262
+
+
+Cluster 1 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_100_cluster_1.png
+Catalogued sources found in cluster 1: 10 (3.7%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 259
+
+
+Cluster 2 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_100_cluster_2.png
+Catalogued sources found in cluster 2: 13 (4.8%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 256
+
+
+Cluster 3 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_100_cluster_3.png
+Catalogued sources found in cluster 3: 8 (3.0%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 261
+
+
+Cluster 4 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_100_cluster_4.png
+Catalogued sources found in cluster 4: 6 (2.2%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 263
+
+
+Cluster 5 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_100_cluster_5.png
+Catalogued sources found in cluster 5: 16 (5.9%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 253
+
+
+Cluster 6 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_100_cluster_6.png
+Catalogued sources found in cluster 6: 7 (2.6%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 262
+
+
+Cluster 7 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_100_cluster_7.png
+Catalogued sources found in cluster 7: 9 (3.3%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 260
+
+
+Cluster 8 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_100_cluster_8.png
+Catalogued sources found in cluster 8: 8 (3.0%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 261
+
+
+Cluster 9 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_100_cluster_9.png
+Catalogued sources found in cluster 9: 6 (2.2%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 263
+
+
+Cluster 10 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_100_cluster_10.png
+Catalogued sources found in cluster 10: 7 (2.6%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 262
+
+
+Cluster 11 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_100_cluster_11.png
+Catalogued sources found in cluster 11: 8 (3.0%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 261
+
+
+Cluster 12 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_100_cluster_12.png
+Catalogued sources found in cluster 12: 8 (3.0%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 261
+
+
+Cluster 13 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_100_cluster_13.png
+Catalogued sources found in cluster 13: 12 (4.5%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 257
+
+
+Cluster 14 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_100_cluster_14.png
+Catalogued sources found in cluster 14: 0 (0.0%)
+Extra elements found: 9
+Catalogued sources not found in cluster: 269
+
+
+Cluster 15 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_100_cluster_15.png
+Catalogued sources found in cluster 15: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 16 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_100_cluster_16.png
+Catalogued sources found in cluster 16: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 17 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_100_cluster_17.png
+Catalogued sources found in cluster 17: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 18 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_100_cluster_18.png
+Catalogued sources found in cluster 18: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 19 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_100_cluster_19.png
+Catalogued sources found in cluster 19: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 20 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_100_cluster_20.png
+Catalogued sources found in cluster 20: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 21 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_100_cluster_21.png
+Catalogued sources found in cluster 21: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 22 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_100_cluster_22.png
+Catalogued sources found in cluster 22: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 23 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_100_cluster_23.png
+Catalogued sources found in cluster 23: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Sources count: 269 +300%
+
+Reading ./test_2/AA_661_A118/output/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300.csv
+
+Estimated number of clusters: 59
+Estimated number of noise points: 620
+Silhoutte score: -0.2379050793267214
+
+
+Main plot ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_all_clusters.png
+Main csv ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_all_clusters.csv
+
+
+Cluster 0 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_0.png
+Catalogued sources found in cluster 0: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 1 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_1.png
+Catalogued sources found in cluster 1: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 2 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_2.png
+Catalogued sources found in cluster 2: 0 (0.0%)
+Extra elements found: 10
+Catalogued sources not found in cluster: 269
+
+
+Cluster 3 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_3.png
+Catalogued sources found in cluster 3: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 4 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_4.png
+Catalogued sources found in cluster 4: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 5 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_5.png
+Catalogued sources found in cluster 5: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 6 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_6.png
+Catalogued sources found in cluster 6: 0 (0.0%)
+Extra elements found: 9
+Catalogued sources not found in cluster: 269
+
+
+Cluster 7 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_7.png
+Catalogued sources found in cluster 7: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 8 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_8.png
+Catalogued sources found in cluster 8: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 9 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_9.png
+Catalogued sources found in cluster 9: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 10 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_10.png
+Catalogued sources found in cluster 10: 5 (1.9%)
+Extra elements found: 3
+Catalogued sources not found in cluster: 264
+
+
+Cluster 11 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_11.png
+Catalogued sources found in cluster 11: 5 (1.9%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 264
+
+
+Cluster 12 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_12.png
+Catalogued sources found in cluster 12: 8 (3.0%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 261
+
+
+Cluster 13 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_13.png
+Catalogued sources found in cluster 13: 9 (3.3%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 260
+
+
+Cluster 14 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_14.png
+Catalogued sources found in cluster 14: 17 (6.3%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 252
+
+
+Cluster 15 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_15.png
+Catalogued sources found in cluster 15: 5 (1.9%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 264
+
+
+Cluster 16 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_16.png
+Catalogued sources found in cluster 16: 8 (3.0%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 261
+
+
+Cluster 17 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_17.png
+Catalogued sources found in cluster 17: 8 (3.0%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 261
+
+
+Cluster 18 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_18.png
+Catalogued sources found in cluster 18: 6 (2.2%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 263
+
+
+Cluster 19 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_19.png
+Catalogued sources found in cluster 19: 5 (1.9%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 264
+
+
+Cluster 20 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_20.png
+Catalogued sources found in cluster 20: 7 (2.6%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 262
+
+
+Cluster 21 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_21.png
+Catalogued sources found in cluster 21: 9 (3.3%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 260
+
+
+Cluster 22 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_22.png
+Catalogued sources found in cluster 22: 9 (3.3%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 260
+
+
+Cluster 23 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_23.png
+Catalogued sources found in cluster 23: 6 (2.2%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 263
+
+
+Cluster 24 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_24.png
+Catalogued sources found in cluster 24: 8 (3.0%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 261
+
+
+Cluster 25 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_25.png
+Catalogued sources found in cluster 25: 8 (3.0%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 261
+
+
+Cluster 26 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_26.png
+Catalogued sources found in cluster 26: 12 (4.5%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 257
+
+
+Cluster 27 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_27.png
+Catalogued sources found in cluster 27: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 28 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_28.png
+Catalogued sources found in cluster 28: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 29 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_29.png
+Catalogued sources found in cluster 29: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 30 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_30.png
+Catalogued sources found in cluster 30: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 31 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_31.png
+Catalogued sources found in cluster 31: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 32 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_32.png
+Catalogued sources found in cluster 32: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 33 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_33.png
+Catalogued sources found in cluster 33: 0 (0.0%)
+Extra elements found: 12
+Catalogued sources not found in cluster: 269
+
+
+Cluster 34 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_34.png
+Catalogued sources found in cluster 34: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 35 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_35.png
+Catalogued sources found in cluster 35: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 36 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_36.png
+Catalogued sources found in cluster 36: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 37 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_37.png
+Catalogued sources found in cluster 37: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 38 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_38.png
+Catalogued sources found in cluster 38: 0 (0.0%)
+Extra elements found: 14
+Catalogued sources not found in cluster: 269
+
+
+Cluster 39 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_39.png
+Catalogued sources found in cluster 39: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 40 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_40.png
+Catalogued sources found in cluster 40: 0 (0.0%)
+Extra elements found: 11
+Catalogued sources not found in cluster: 269
+
+
+Cluster 41 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_41.png
+Catalogued sources found in cluster 41: 0 (0.0%)
+Extra elements found: 10
+Catalogued sources not found in cluster: 269
+
+
+Cluster 42 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_42.png
+Catalogued sources found in cluster 42: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 43 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_43.png
+Catalogued sources found in cluster 43: 0 (0.0%)
+Extra elements found: 10
+Catalogued sources not found in cluster: 269
+
+
+Cluster 44 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_44.png
+Catalogued sources found in cluster 44: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 45 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_45.png
+Catalogued sources found in cluster 45: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 46 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_46.png
+Catalogued sources found in cluster 46: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 47 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_47.png
+Catalogued sources found in cluster 47: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 48 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_48.png
+Catalogued sources found in cluster 48: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 49 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_49.png
+Catalogued sources found in cluster 49: 0 (0.0%)
+Extra elements found: 9
+Catalogued sources not found in cluster: 269
+
+
+Cluster 50 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_50.png
+Catalogued sources found in cluster 50: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 51 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_51.png
+Catalogued sources found in cluster 51: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 52 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_52.png
+Catalogued sources found in cluster 52: 0 (0.0%)
+Extra elements found: 12
+Catalogued sources not found in cluster: 269
+
+
+Cluster 53 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_53.png
+Catalogued sources found in cluster 53: 0 (0.0%)
+Extra elements found: 11
+Catalogued sources not found in cluster: 269
+
+
+Cluster 54 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_54.png
+Catalogued sources found in cluster 54: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 55 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_55.png
+Catalogued sources found in cluster 55: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 56 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_56.png
+Catalogued sources found in cluster 56: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 57 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_57.png
+Catalogued sources found in cluster 57: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 58 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_58.png
+Catalogued sources found in cluster 58: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Sources count: 269 +500%
+
+Reading ./test_2/AA_661_A118/output/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500.csv
+
+Estimated number of clusters: 86
+Estimated number of noise points: 932
+Silhoutte score: -0.25049987949793073
+
+
+Main plot ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_all_clusters.png
+Main csv ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_all_clusters.csv
+
+
+Cluster 0 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_0.png
+Catalogued sources found in cluster 0: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 1 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_1.png
+Catalogued sources found in cluster 1: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 2 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_2.png
+Catalogued sources found in cluster 2: 9 (3.3%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 260
+
+
+Cluster 3 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_3.png
+Catalogued sources found in cluster 3: 9 (3.3%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 260
+
+
+Cluster 4 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_4.png
+Catalogued sources found in cluster 4: 8 (3.0%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 261
+
+
+Cluster 5 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_5.png
+Catalogued sources found in cluster 5: 6 (2.2%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 263
+
+
+Cluster 6 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_6.png
+Catalogued sources found in cluster 6: 17 (6.3%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 252
+
+
+Cluster 7 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_7.png
+Catalogued sources found in cluster 7: 12 (4.5%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 257
+
+
+Cluster 8 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_8.png
+Catalogued sources found in cluster 8: 9 (3.3%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 260
+
+
+Cluster 9 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_9.png
+Catalogued sources found in cluster 9: 6 (2.2%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 263
+
+
+Cluster 10 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_10.png
+Catalogued sources found in cluster 10: 7 (2.6%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 262
+
+
+Cluster 11 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_11.png
+Catalogued sources found in cluster 11: 7 (2.6%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 262
+
+
+Cluster 12 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_12.png
+Catalogued sources found in cluster 12: 9 (3.3%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 260
+
+
+Cluster 13 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_13.png
+Catalogued sources found in cluster 13: 7 (2.6%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 262
+
+
+Cluster 14 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_14.png
+Catalogued sources found in cluster 14: 8 (3.0%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 261
+
+
+Cluster 15 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_15.png
+Catalogued sources found in cluster 15: 4 (1.5%)
+Extra elements found: 2
+Catalogued sources not found in cluster: 265
+
+
+Cluster 16 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_16.png
+Catalogued sources found in cluster 16: 8 (3.0%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 261
+
+
+Cluster 17 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_17.png
+Catalogued sources found in cluster 17: 4 (1.5%)
+Extra elements found: 3
+Catalogued sources not found in cluster: 265
+
+
+Cluster 18 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_18.png
+Catalogued sources found in cluster 18: 0 (0.0%)
+Extra elements found: 14
+Catalogued sources not found in cluster: 269
+
+
+Cluster 19 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_19.png
+Catalogued sources found in cluster 19: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 20 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_20.png
+Catalogued sources found in cluster 20: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 21 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_21.png
+Catalogued sources found in cluster 21: 0 (0.0%)
+Extra elements found: 23
+Catalogued sources not found in cluster: 269
+
+
+Cluster 22 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_22.png
+Catalogued sources found in cluster 22: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 23 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_23.png
+Catalogued sources found in cluster 23: 0 (0.0%)
+Extra elements found: 11
+Catalogued sources not found in cluster: 269
+
+
+Cluster 24 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_24.png
+Catalogued sources found in cluster 24: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 25 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_25.png
+Catalogued sources found in cluster 25: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 26 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_26.png
+Catalogued sources found in cluster 26: 0 (0.0%)
+Extra elements found: 9
+Catalogued sources not found in cluster: 269
+
+
+Cluster 27 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_27.png
+Catalogued sources found in cluster 27: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 28 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_28.png
+Catalogued sources found in cluster 28: 0 (0.0%)
+Extra elements found: 10
+Catalogued sources not found in cluster: 269
+
+
+Cluster 29 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_29.png
+Catalogued sources found in cluster 29: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 30 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_30.png
+Catalogued sources found in cluster 30: 0 (0.0%)
+Extra elements found: 10
+Catalogued sources not found in cluster: 269
+
+
+Cluster 31 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_31.png
+Catalogued sources found in cluster 31: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 32 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_32.png
+Catalogued sources found in cluster 32: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 33 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_33.png
+Catalogued sources found in cluster 33: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 34 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_34.png
+Catalogued sources found in cluster 34: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 35 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_35.png
+Catalogued sources found in cluster 35: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 36 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_36.png
+Catalogued sources found in cluster 36: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 37 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_37.png
+Catalogued sources found in cluster 37: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 38 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_38.png
+Catalogued sources found in cluster 38: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 39 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_39.png
+Catalogued sources found in cluster 39: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 40 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_40.png
+Catalogued sources found in cluster 40: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 41 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_41.png
+Catalogued sources found in cluster 41: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 42 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_42.png
+Catalogued sources found in cluster 42: 0 (0.0%)
+Extra elements found: 9
+Catalogued sources not found in cluster: 269
+
+
+Cluster 43 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_43.png
+Catalogued sources found in cluster 43: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 44 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_44.png
+Catalogued sources found in cluster 44: 0 (0.0%)
+Extra elements found: 12
+Catalogued sources not found in cluster: 269
+
+
+Cluster 45 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_45.png
+Catalogued sources found in cluster 45: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 46 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_46.png
+Catalogued sources found in cluster 46: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 47 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_47.png
+Catalogued sources found in cluster 47: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 48 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_48.png
+Catalogued sources found in cluster 48: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 49 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_49.png
+Catalogued sources found in cluster 49: 0 (0.0%)
+Extra elements found: 13
+Catalogued sources not found in cluster: 269
+
+
+Cluster 50 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_50.png
+Catalogued sources found in cluster 50: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 51 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_51.png
+Catalogued sources found in cluster 51: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 52 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_52.png
+Catalogued sources found in cluster 52: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 53 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_53.png
+Catalogued sources found in cluster 53: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 54 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_54.png
+Catalogued sources found in cluster 54: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 55 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_55.png
+Catalogued sources found in cluster 55: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 56 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_56.png
+Catalogued sources found in cluster 56: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 57 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_57.png
+Catalogued sources found in cluster 57: 0 (0.0%)
+Extra elements found: 11
+Catalogued sources not found in cluster: 269
+
+
+Cluster 58 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_58.png
+Catalogued sources found in cluster 58: 0 (0.0%)
+Extra elements found: 13
+Catalogued sources not found in cluster: 269
+
+
+Cluster 59 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_59.png
+Catalogued sources found in cluster 59: 0 (0.0%)
+Extra elements found: 9
+Catalogued sources not found in cluster: 269
+
+
+Cluster 60 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_60.png
+Catalogued sources found in cluster 60: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 61 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_61.png
+Catalogued sources found in cluster 61: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 62 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_62.png
+Catalogued sources found in cluster 62: 0 (0.0%)
+Extra elements found: 10
+Catalogued sources not found in cluster: 269
+
+
+Cluster 63 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_63.png
+Catalogued sources found in cluster 63: 0 (0.0%)
+Extra elements found: 9
+Catalogued sources not found in cluster: 269
+
+
+Cluster 64 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_64.png
+Catalogued sources found in cluster 64: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 65 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_65.png
+Catalogued sources found in cluster 65: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 66 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_66.png
+Catalogued sources found in cluster 66: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 67 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_67.png
+Catalogued sources found in cluster 67: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 68 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_68.png
+Catalogued sources found in cluster 68: 0 (0.0%)
+Extra elements found: 9
+Catalogued sources not found in cluster: 269
+
+
+Cluster 69 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_69.png
+Catalogued sources found in cluster 69: 0 (0.0%)
+Extra elements found: 9
+Catalogued sources not found in cluster: 269
+
+
+Cluster 70 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_70.png
+Catalogued sources found in cluster 70: 0 (0.0%)
+Extra elements found: 11
+Catalogued sources not found in cluster: 269
+
+
+Cluster 71 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_71.png
+Catalogued sources found in cluster 71: 0 (0.0%)
+Extra elements found: 12
+Catalogued sources not found in cluster: 269
+
+
+Cluster 72 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_72.png
+Catalogued sources found in cluster 72: 0 (0.0%)
+Extra elements found: 12
+Catalogued sources not found in cluster: 269
+
+
+Cluster 73 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_73.png
+Catalogued sources found in cluster 73: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 74 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_74.png
+Catalogued sources found in cluster 74: 0 (0.0%)
+Extra elements found: 10
+Catalogued sources not found in cluster: 269
+
+
+Cluster 75 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_75.png
+Catalogued sources found in cluster 75: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 76 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_76.png
+Catalogued sources found in cluster 76: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 77 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_77.png
+Catalogued sources found in cluster 77: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 78 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_78.png
+Catalogued sources found in cluster 78: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 79 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_79.png
+Catalogued sources found in cluster 79: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 80 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_80.png
+Catalogued sources found in cluster 80: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 81 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_81.png
+Catalogued sources found in cluster 81: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 82 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_82.png
+Catalogued sources found in cluster 82: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 83 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_83.png
+Catalogued sources found in cluster 83: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 84 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_84.png
+Catalogued sources found in cluster 84: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 85 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_85.png
+Catalogued sources found in cluster 85: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Sources count: 269 +1000%
+
+Reading ./test_2/AA_661_A118/output/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000.csv
+
+Estimated number of clusters: 172
+Estimated number of noise points: 1626
+Silhoutte score: -0.23406675239085054
+
+
+Main plot ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_all_clusters.png
+Main csv ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_all_clusters.csv
+
+
+Cluster 0 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_0.png
+Catalogued sources found in cluster 0: 0 (0.0%)
+Extra elements found: 10
+Catalogued sources not found in cluster: 269
+
+
+Cluster 1 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_1.png
+Catalogued sources found in cluster 1: 0 (0.0%)
+Extra elements found: 10
+Catalogued sources not found in cluster: 269
+
+
+Cluster 2 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_2.png
+Catalogued sources found in cluster 2: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 3 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_3.png
+Catalogued sources found in cluster 3: 0 (0.0%)
+Extra elements found: 9
+Catalogued sources not found in cluster: 269
+
+
+Cluster 4 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_4.png
+Catalogued sources found in cluster 4: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 5 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_5.png
+Catalogued sources found in cluster 5: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 6 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_6.png
+Catalogued sources found in cluster 6: 0 (0.0%)
+Extra elements found: 11
+Catalogued sources not found in cluster: 269
+
+
+Cluster 7 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_7.png
+Catalogued sources found in cluster 7: 0 (0.0%)
+Extra elements found: 9
+Catalogued sources not found in cluster: 269
+
+
+Cluster 8 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_8.png
+Catalogued sources found in cluster 8: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 9 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_9.png
+Catalogued sources found in cluster 9: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 10 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_10.png
+Catalogued sources found in cluster 10: 0 (0.0%)
+Extra elements found: 12
+Catalogued sources not found in cluster: 269
+
+
+Cluster 11 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_11.png
+Catalogued sources found in cluster 11: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 12 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_12.png
+Catalogued sources found in cluster 12: 0 (0.0%)
+Extra elements found: 9
+Catalogued sources not found in cluster: 269
+
+
+Cluster 13 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_13.png
+Catalogued sources found in cluster 13: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 14 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_14.png
+Catalogued sources found in cluster 14: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 15 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_15.png
+Catalogued sources found in cluster 15: 0 (0.0%)
+Extra elements found: 11
+Catalogued sources not found in cluster: 269
+
+
+Cluster 16 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_16.png
+Catalogued sources found in cluster 16: 0 (0.0%)
+Extra elements found: 12
+Catalogued sources not found in cluster: 269
+
+
+Cluster 17 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_17.png
+Catalogued sources found in cluster 17: 4 (1.5%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 265
+
+
+Cluster 18 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_18.png
+Catalogued sources found in cluster 18: 8 (3.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 261
+
+
+Cluster 19 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_19.png
+Catalogued sources found in cluster 19: 5 (1.9%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 264
+
+
+Cluster 20 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_20.png
+Catalogued sources found in cluster 20: 10 (3.7%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 259
+
+
+Cluster 21 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_21.png
+Catalogued sources found in cluster 21: 8 (3.0%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 261
+
+
+Cluster 22 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_22.png
+Catalogued sources found in cluster 22: 6 (2.2%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 263
+
+
+Cluster 23 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_23.png
+Catalogued sources found in cluster 23: 17 (6.3%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 252
+
+
+Cluster 24 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_24.png
+Catalogued sources found in cluster 24: 12 (4.5%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 257
+
+
+Cluster 25 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_25.png
+Catalogued sources found in cluster 25: 8 (3.0%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 261
+
+
+Cluster 26 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_26.png
+Catalogued sources found in cluster 26: 6 (2.2%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 263
+
+
+Cluster 27 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_27.png
+Catalogued sources found in cluster 27: 7 (2.6%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 262
+
+
+Cluster 28 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_28.png
+Catalogued sources found in cluster 28: 9 (3.3%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 260
+
+
+Cluster 29 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_29.png
+Catalogued sources found in cluster 29: 9 (3.3%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 260
+
+
+Cluster 30 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_30.png
+Catalogued sources found in cluster 30: 6 (2.2%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 263
+
+
+Cluster 31 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_31.png
+Catalogued sources found in cluster 31: 4 (1.5%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 265
+
+
+Cluster 32 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_32.png
+Catalogued sources found in cluster 32: 8 (3.0%)
+Extra elements found: 0
+Catalogued sources not found in cluster: 261
+
+
+Cluster 33 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_33.png
+Catalogued sources found in cluster 33: 6 (2.2%)
+Extra elements found: 2
+Catalogued sources not found in cluster: 263
+
+
+Cluster 34 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_34.png
+Catalogued sources found in cluster 34: 5 (1.9%)
+Extra elements found: 3
+Catalogued sources not found in cluster: 264
+
+
+Cluster 35 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_35.png
+Catalogued sources found in cluster 35: 5 (1.9%)
+Extra elements found: 3
+Catalogued sources not found in cluster: 264
+
+
+Cluster 36 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_36.png
+Catalogued sources found in cluster 36: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 37 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_37.png
+Catalogued sources found in cluster 37: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 38 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_38.png
+Catalogued sources found in cluster 38: 0 (0.0%)
+Extra elements found: 9
+Catalogued sources not found in cluster: 269
+
+
+Cluster 39 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_39.png
+Catalogued sources found in cluster 39: 0 (0.0%)
+Extra elements found: 13
+Catalogued sources not found in cluster: 269
+
+
+Cluster 40 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_40.png
+Catalogued sources found in cluster 40: 0 (0.0%)
+Extra elements found: 13
+Catalogued sources not found in cluster: 269
+
+
+Cluster 41 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_41.png
+Catalogued sources found in cluster 41: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 42 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_42.png
+Catalogued sources found in cluster 42: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 43 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_43.png
+Catalogued sources found in cluster 43: 0 (0.0%)
+Extra elements found: 11
+Catalogued sources not found in cluster: 269
+
+
+Cluster 44 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_44.png
+Catalogued sources found in cluster 44: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 45 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_45.png
+Catalogued sources found in cluster 45: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 46 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_46.png
+Catalogued sources found in cluster 46: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 47 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_47.png
+Catalogued sources found in cluster 47: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 48 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_48.png
+Catalogued sources found in cluster 48: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 49 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_49.png
+Catalogued sources found in cluster 49: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 50 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_50.png
+Catalogued sources found in cluster 50: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 51 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_51.png
+Catalogued sources found in cluster 51: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 52 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_52.png
+Catalogued sources found in cluster 52: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 53 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_53.png
+Catalogued sources found in cluster 53: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 54 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_54.png
+Catalogued sources found in cluster 54: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 55 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_55.png
+Catalogued sources found in cluster 55: 0 (0.0%)
+Extra elements found: 12
+Catalogued sources not found in cluster: 269
+
+
+Cluster 56 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_56.png
+Catalogued sources found in cluster 56: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 57 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_57.png
+Catalogued sources found in cluster 57: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 58 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_58.png
+Catalogued sources found in cluster 58: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 59 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_59.png
+Catalogued sources found in cluster 59: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 60 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_60.png
+Catalogued sources found in cluster 60: 0 (0.0%)
+Extra elements found: 13
+Catalogued sources not found in cluster: 269
+
+
+Cluster 61 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_61.png
+Catalogued sources found in cluster 61: 0 (0.0%)
+Extra elements found: 13
+Catalogued sources not found in cluster: 269
+
+
+Cluster 62 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_62.png
+Catalogued sources found in cluster 62: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 63 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_63.png
+Catalogued sources found in cluster 63: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 64 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_64.png
+Catalogued sources found in cluster 64: 0 (0.0%)
+Extra elements found: 15
+Catalogued sources not found in cluster: 269
+
+
+Cluster 65 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_65.png
+Catalogued sources found in cluster 65: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 66 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_66.png
+Catalogued sources found in cluster 66: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 67 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_67.png
+Catalogued sources found in cluster 67: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 68 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_68.png
+Catalogued sources found in cluster 68: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 69 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_69.png
+Catalogued sources found in cluster 69: 0 (0.0%)
+Extra elements found: 10
+Catalogued sources not found in cluster: 269
+
+
+Cluster 70 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_70.png
+Catalogued sources found in cluster 70: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 71 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_71.png
+Catalogued sources found in cluster 71: 0 (0.0%)
+Extra elements found: 19
+Catalogued sources not found in cluster: 269
+
+
+Cluster 72 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_72.png
+Catalogued sources found in cluster 72: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 73 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_73.png
+Catalogued sources found in cluster 73: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 74 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_74.png
+Catalogued sources found in cluster 74: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 75 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_75.png
+Catalogued sources found in cluster 75: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 76 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_76.png
+Catalogued sources found in cluster 76: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 77 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_77.png
+Catalogued sources found in cluster 77: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 78 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_78.png
+Catalogued sources found in cluster 78: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 79 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_79.png
+Catalogued sources found in cluster 79: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 80 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_80.png
+Catalogued sources found in cluster 80: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 81 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_81.png
+Catalogued sources found in cluster 81: 0 (0.0%)
+Extra elements found: 12
+Catalogued sources not found in cluster: 269
+
+
+Cluster 82 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_82.png
+Catalogued sources found in cluster 82: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 83 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_83.png
+Catalogued sources found in cluster 83: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 84 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_84.png
+Catalogued sources found in cluster 84: 0 (0.0%)
+Extra elements found: 12
+Catalogued sources not found in cluster: 269
+
+
+Cluster 85 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_85.png
+Catalogued sources found in cluster 85: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 86 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_86.png
+Catalogued sources found in cluster 86: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 87 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_87.png
+Catalogued sources found in cluster 87: 0 (0.0%)
+Extra elements found: 10
+Catalogued sources not found in cluster: 269
+
+
+Cluster 88 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_88.png
+Catalogued sources found in cluster 88: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 89 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_89.png
+Catalogued sources found in cluster 89: 0 (0.0%)
+Extra elements found: 9
+Catalogued sources not found in cluster: 269
+
+
+Cluster 90 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_90.png
+Catalogued sources found in cluster 90: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 91 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_91.png
+Catalogued sources found in cluster 91: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 92 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_92.png
+Catalogued sources found in cluster 92: 0 (0.0%)
+Extra elements found: 10
+Catalogued sources not found in cluster: 269
+
+
+Cluster 93 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_93.png
+Catalogued sources found in cluster 93: 0 (0.0%)
+Extra elements found: 11
+Catalogued sources not found in cluster: 269
+
+
+Cluster 94 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_94.png
+Catalogued sources found in cluster 94: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 95 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_95.png
+Catalogued sources found in cluster 95: 0 (0.0%)
+Extra elements found: 12
+Catalogued sources not found in cluster: 269
+
+
+Cluster 96 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_96.png
+Catalogued sources found in cluster 96: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 97 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_97.png
+Catalogued sources found in cluster 97: 0 (0.0%)
+Extra elements found: 10
+Catalogued sources not found in cluster: 269
+
+
+Cluster 98 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_98.png
+Catalogued sources found in cluster 98: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 99 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_99.png
+Catalogued sources found in cluster 99: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 100 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_100.png
+Catalogued sources found in cluster 100: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 101 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_101.png
+Catalogued sources found in cluster 101: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 102 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_102.png
+Catalogued sources found in cluster 102: 0 (0.0%)
+Extra elements found: 9
+Catalogued sources not found in cluster: 269
+
+
+Cluster 103 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_103.png
+Catalogued sources found in cluster 103: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 104 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_104.png
+Catalogued sources found in cluster 104: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 105 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_105.png
+Catalogued sources found in cluster 105: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 106 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_106.png
+Catalogued sources found in cluster 106: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 107 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_107.png
+Catalogued sources found in cluster 107: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 108 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_108.png
+Catalogued sources found in cluster 108: 0 (0.0%)
+Extra elements found: 10
+Catalogued sources not found in cluster: 269
+
+
+Cluster 109 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_109.png
+Catalogued sources found in cluster 109: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 110 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_110.png
+Catalogued sources found in cluster 110: 0 (0.0%)
+Extra elements found: 14
+Catalogued sources not found in cluster: 269
+
+
+Cluster 111 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_111.png
+Catalogued sources found in cluster 111: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 112 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_112.png
+Catalogued sources found in cluster 112: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 113 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_113.png
+Catalogued sources found in cluster 113: 0 (0.0%)
+Extra elements found: 9
+Catalogued sources not found in cluster: 269
+
+
+Cluster 114 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_114.png
+Catalogued sources found in cluster 114: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 115 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_115.png
+Catalogued sources found in cluster 115: 0 (0.0%)
+Extra elements found: 9
+Catalogued sources not found in cluster: 269
+
+
+Cluster 116 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_116.png
+Catalogued sources found in cluster 116: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 117 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_117.png
+Catalogued sources found in cluster 117: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 118 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_118.png
+Catalogued sources found in cluster 118: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 119 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_119.png
+Catalogued sources found in cluster 119: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 120 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_120.png
+Catalogued sources found in cluster 120: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 121 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_121.png
+Catalogued sources found in cluster 121: 0 (0.0%)
+Extra elements found: 9
+Catalogued sources not found in cluster: 269
+
+
+Cluster 122 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_122.png
+Catalogued sources found in cluster 122: 0 (0.0%)
+Extra elements found: 10
+Catalogued sources not found in cluster: 269
+
+
+Cluster 123 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_123.png
+Catalogued sources found in cluster 123: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 124 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_124.png
+Catalogued sources found in cluster 124: 0 (0.0%)
+Extra elements found: 13
+Catalogued sources not found in cluster: 269
+
+
+Cluster 125 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_125.png
+Catalogued sources found in cluster 125: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 126 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_126.png
+Catalogued sources found in cluster 126: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 127 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_127.png
+Catalogued sources found in cluster 127: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 128 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_128.png
+Catalogued sources found in cluster 128: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 129 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_129.png
+Catalogued sources found in cluster 129: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 130 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_130.png
+Catalogued sources found in cluster 130: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 131 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_131.png
+Catalogued sources found in cluster 131: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 132 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_132.png
+Catalogued sources found in cluster 132: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 133 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_133.png
+Catalogued sources found in cluster 133: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 134 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_134.png
+Catalogued sources found in cluster 134: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 135 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_135.png
+Catalogued sources found in cluster 135: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 136 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_136.png
+Catalogued sources found in cluster 136: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 137 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_137.png
+Catalogued sources found in cluster 137: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 138 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_138.png
+Catalogued sources found in cluster 138: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 139 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_139.png
+Catalogued sources found in cluster 139: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 140 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_140.png
+Catalogued sources found in cluster 140: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 141 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_141.png
+Catalogued sources found in cluster 141: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 142 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_142.png
+Catalogued sources found in cluster 142: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 143 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_143.png
+Catalogued sources found in cluster 143: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 144 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_144.png
+Catalogued sources found in cluster 144: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 145 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_145.png
+Catalogued sources found in cluster 145: 0 (0.0%)
+Extra elements found: 20
+Catalogued sources not found in cluster: 269
+
+
+Cluster 146 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_146.png
+Catalogued sources found in cluster 146: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 147 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_147.png
+Catalogued sources found in cluster 147: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 148 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_148.png
+Catalogued sources found in cluster 148: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 149 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_149.png
+Catalogued sources found in cluster 149: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 150 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_150.png
+Catalogued sources found in cluster 150: 0 (0.0%)
+Extra elements found: 11
+Catalogued sources not found in cluster: 269
+
+
+Cluster 151 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_151.png
+Catalogued sources found in cluster 151: 0 (0.0%)
+Extra elements found: 13
+Catalogued sources not found in cluster: 269
+
+
+Cluster 152 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_152.png
+Catalogued sources found in cluster 152: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 153 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_153.png
+Catalogued sources found in cluster 153: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 154 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_154.png
+Catalogued sources found in cluster 154: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 155 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_155.png
+Catalogued sources found in cluster 155: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 156 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_156.png
+Catalogued sources found in cluster 156: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 157 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_157.png
+Catalogued sources found in cluster 157: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 158 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_158.png
+Catalogued sources found in cluster 158: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 159 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_159.png
+Catalogued sources found in cluster 159: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 160 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_160.png
+Catalogued sources found in cluster 160: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 161 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_161.png
+Catalogued sources found in cluster 161: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 162 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_162.png
+Catalogued sources found in cluster 162: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 163 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_163.png
+Catalogued sources found in cluster 163: 0 (0.0%)
+Extra elements found: 11
+Catalogued sources not found in cluster: 269
+
+
+Cluster 164 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_164.png
+Catalogued sources found in cluster 164: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 165 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_165.png
+Catalogued sources found in cluster 165: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 269
+
+
+Cluster 166 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_166.png
+Catalogued sources found in cluster 166: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 269
+
+
+Cluster 167 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_167.png
+Catalogued sources found in cluster 167: 0 (0.0%)
+Extra elements found: 14
+Catalogued sources not found in cluster: 269
+
+
+Cluster 168 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_168.png
+Catalogued sources found in cluster 168: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
+Cluster 169 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_169.png
+Catalogued sources found in cluster 169: 0 (0.0%)
+Extra elements found: 13
+Catalogued sources not found in cluster: 269
+
+
+Cluster 170 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_170.png
+Catalogued sources found in cluster 170: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 269
+
+
+Cluster 171 -> ./test_2/AA_661_A118/output/report_20230813T190501/UBC1565_OPTICS_20230813T190503/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_171.png
+Catalogued sources found in cluster 171: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 269
+
+
