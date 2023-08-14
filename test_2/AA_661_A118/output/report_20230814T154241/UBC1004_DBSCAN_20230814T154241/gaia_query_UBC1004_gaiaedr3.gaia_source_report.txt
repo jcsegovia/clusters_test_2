@@ -1,0 +1,615 @@
+Sources file: ./test_2//AA_661_A118/output/gaia_query_UBC1004_gaiaedr3.gaia_source.csv
+
+Model parameters: {'algorithm': 'auto', 'eps': 0.1, 'leaf_size': 30, 'metric': 'euclidean', 'metric_params': None, 'min_samples': 5, 'n_jobs': None, 'p': None}
+
+Sources count: 418 +75%
+
+Reading ./test_2//AA_661_A118/output/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_75.csv
+
+Estimated number of clusters: 4
+Estimated number of noise points: 280
+Silhoutte score: 0.23316254574994238
+
+
+Main plot ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_75_all_clusters.png
+Main csv ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_75_all_clusters.csv
+
+
+Cluster 0 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_75_cluster_0.png
+Catalogued sources found in cluster 0: 418 (100.0%)
+Extra elements found: 16
+Catalogued sources not found in cluster: 0
+
+
+Cluster 1 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_75_cluster_1.png
+Catalogued sources found in cluster 1: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Cluster 2 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_75_cluster_2.png
+Catalogued sources found in cluster 2: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 418
+
+
+Cluster 3 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_75_cluster_3.png
+Catalogued sources found in cluster 3: 0 (0.0%)
+Extra elements found: 4
+Catalogued sources not found in cluster: 418
+
+
+Sources count: 418 +100%
+
+Reading ./test_2//AA_661_A118/output/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_100.csv
+
+Estimated number of clusters: 6
+Estimated number of noise points: 345
+Silhoutte score: 0.2686586288030879
+
+
+Main plot ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_100_all_clusters.png
+Main csv ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_100_all_clusters.csv
+
+
+Cluster 0 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_100_cluster_0.png
+Catalogued sources found in cluster 0: 418 (100.0%)
+Extra elements found: 31
+Catalogued sources not found in cluster: 0
+
+
+Cluster 1 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_100_cluster_1.png
+Catalogued sources found in cluster 1: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 418
+
+
+Cluster 2 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_100_cluster_2.png
+Catalogued sources found in cluster 2: 0 (0.0%)
+Extra elements found: 12
+Catalogued sources not found in cluster: 418
+
+
+Cluster 3 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_100_cluster_3.png
+Catalogued sources found in cluster 3: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 418
+
+
+Cluster 4 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_100_cluster_4.png
+Catalogued sources found in cluster 4: 0 (0.0%)
+Extra elements found: 9
+Catalogued sources not found in cluster: 418
+
+
+Cluster 5 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_100_cluster_5.png
+Catalogued sources found in cluster 5: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Sources count: 418 +300%
+
+Reading ./test_2//AA_661_A118/output/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_300.csv
+
+Estimated number of clusters: 26
+Estimated number of noise points: 586
+Silhoutte score: -0.10424884749126632
+
+
+Main plot ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_300_all_clusters.png
+Main csv ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_300_all_clusters.csv
+
+
+Cluster 0 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_300_cluster_0.png
+Catalogued sources found in cluster 0: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Cluster 1 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_300_cluster_1.png
+Catalogued sources found in cluster 1: 418 (100.0%)
+Extra elements found: 488
+Catalogued sources not found in cluster: 0
+
+
+Cluster 2 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_300_cluster_2.png
+Catalogued sources found in cluster 2: 0 (0.0%)
+Extra elements found: 15
+Catalogued sources not found in cluster: 418
+
+
+Cluster 3 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_300_cluster_3.png
+Catalogued sources found in cluster 3: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 418
+
+
+Cluster 4 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_300_cluster_4.png
+Catalogued sources found in cluster 4: 0 (0.0%)
+Extra elements found: 10
+Catalogued sources not found in cluster: 418
+
+
+Cluster 5 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_300_cluster_5.png
+Catalogued sources found in cluster 5: 0 (0.0%)
+Extra elements found: 13
+Catalogued sources not found in cluster: 418
+
+
+Cluster 6 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_300_cluster_6.png
+Catalogued sources found in cluster 6: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 418
+
+
+Cluster 7 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_300_cluster_7.png
+Catalogued sources found in cluster 7: 0 (0.0%)
+Extra elements found: 4
+Catalogued sources not found in cluster: 418
+
+
+Cluster 8 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_300_cluster_8.png
+Catalogued sources found in cluster 8: 0 (0.0%)
+Extra elements found: 12
+Catalogued sources not found in cluster: 418
+
+
+Cluster 9 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_300_cluster_9.png
+Catalogued sources found in cluster 9: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 418
+
+
+Cluster 10 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_300_cluster_10.png
+Catalogued sources found in cluster 10: 0 (0.0%)
+Extra elements found: 18
+Catalogued sources not found in cluster: 418
+
+
+Cluster 11 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_300_cluster_11.png
+Catalogued sources found in cluster 11: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Cluster 12 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_300_cluster_12.png
+Catalogued sources found in cluster 12: 0 (0.0%)
+Extra elements found: 10
+Catalogued sources not found in cluster: 418
+
+
+Cluster 13 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_300_cluster_13.png
+Catalogued sources found in cluster 13: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Cluster 14 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_300_cluster_14.png
+Catalogued sources found in cluster 14: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Cluster 15 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_300_cluster_15.png
+Catalogued sources found in cluster 15: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Cluster 16 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_300_cluster_16.png
+Catalogued sources found in cluster 16: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Cluster 17 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_300_cluster_17.png
+Catalogued sources found in cluster 17: 0 (0.0%)
+Extra elements found: 4
+Catalogued sources not found in cluster: 418
+
+
+Cluster 18 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_300_cluster_18.png
+Catalogued sources found in cluster 18: 0 (0.0%)
+Extra elements found: 9
+Catalogued sources not found in cluster: 418
+
+
+Cluster 19 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_300_cluster_19.png
+Catalogued sources found in cluster 19: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Cluster 20 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_300_cluster_20.png
+Catalogued sources found in cluster 20: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Cluster 21 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_300_cluster_21.png
+Catalogued sources found in cluster 21: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Cluster 22 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_300_cluster_22.png
+Catalogued sources found in cluster 22: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Cluster 23 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_300_cluster_23.png
+Catalogued sources found in cluster 23: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Cluster 24 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_300_cluster_24.png
+Catalogued sources found in cluster 24: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 418
+
+
+Cluster 25 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_300_cluster_25.png
+Catalogued sources found in cluster 25: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Sources count: 418 +500%
+
+Reading ./test_2//AA_661_A118/output/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_500.csv
+
+Estimated number of clusters: 24
+Estimated number of noise points: 488
+Silhoutte score: -0.23127381496667956
+
+
+Main plot ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_500_all_clusters.png
+Main csv ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_500_all_clusters.csv
+
+
+Cluster 0 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_500_cluster_0.png
+Catalogued sources found in cluster 0: 0 (0.0%)
+Extra elements found: 10
+Catalogued sources not found in cluster: 418
+
+
+Cluster 1 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_500_cluster_1.png
+Catalogued sources found in cluster 1: 418 (100.0%)
+Extra elements found: 1375
+Catalogued sources not found in cluster: 0
+
+
+Cluster 2 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_500_cluster_2.png
+Catalogued sources found in cluster 2: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 418
+
+
+Cluster 3 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_500_cluster_3.png
+Catalogued sources found in cluster 3: 0 (0.0%)
+Extra elements found: 21
+Catalogued sources not found in cluster: 418
+
+
+Cluster 4 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_500_cluster_4.png
+Catalogued sources found in cluster 4: 0 (0.0%)
+Extra elements found: 16
+Catalogued sources not found in cluster: 418
+
+
+Cluster 5 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_500_cluster_5.png
+Catalogued sources found in cluster 5: 0 (0.0%)
+Extra elements found: 10
+Catalogued sources not found in cluster: 418
+
+
+Cluster 6 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_500_cluster_6.png
+Catalogued sources found in cluster 6: 0 (0.0%)
+Extra elements found: 24
+Catalogued sources not found in cluster: 418
+
+
+Cluster 7 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_500_cluster_7.png
+Catalogued sources found in cluster 7: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Cluster 8 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_500_cluster_8.png
+Catalogued sources found in cluster 8: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 418
+
+
+Cluster 9 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_500_cluster_9.png
+Catalogued sources found in cluster 9: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Cluster 10 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_500_cluster_10.png
+Catalogued sources found in cluster 10: 0 (0.0%)
+Extra elements found: 34
+Catalogued sources not found in cluster: 418
+
+
+Cluster 11 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_500_cluster_11.png
+Catalogued sources found in cluster 11: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 418
+
+
+Cluster 12 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_500_cluster_12.png
+Catalogued sources found in cluster 12: 0 (0.0%)
+Extra elements found: 10
+Catalogued sources not found in cluster: 418
+
+
+Cluster 13 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_500_cluster_13.png
+Catalogued sources found in cluster 13: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 418
+
+
+Cluster 14 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_500_cluster_14.png
+Catalogued sources found in cluster 14: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 418
+
+
+Cluster 15 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_500_cluster_15.png
+Catalogued sources found in cluster 15: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 418
+
+
+Cluster 16 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_500_cluster_16.png
+Catalogued sources found in cluster 16: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 418
+
+
+Cluster 17 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_500_cluster_17.png
+Catalogued sources found in cluster 17: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 418
+
+
+Cluster 18 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_500_cluster_18.png
+Catalogued sources found in cluster 18: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 418
+
+
+Cluster 19 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_500_cluster_19.png
+Catalogued sources found in cluster 19: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 418
+
+
+Cluster 20 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_500_cluster_20.png
+Catalogued sources found in cluster 20: 0 (0.0%)
+Extra elements found: 2
+Catalogued sources not found in cluster: 418
+
+
+Cluster 21 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_500_cluster_21.png
+Catalogued sources found in cluster 21: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Cluster 22 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_500_cluster_22.png
+Catalogued sources found in cluster 22: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 418
+
+
+Cluster 23 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_500_cluster_23.png
+Catalogued sources found in cluster 23: 0 (0.0%)
+Extra elements found: 4
+Catalogued sources not found in cluster: 418
+
+
+Sources count: 418 +1000%
+
+Reading ./test_2//AA_661_A118/output/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_1000.csv
+
+Estimated number of clusters: 31
+Estimated number of noise points: 597
+Silhoutte score: -0.23421137986574045
+
+
+Main plot ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_1000_all_clusters.png
+Main csv ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_1000_all_clusters.csv
+
+
+Cluster 0 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_1000_cluster_0.png
+Catalogued sources found in cluster 0: 418 (100.0%)
+Extra elements found: 3341
+Catalogued sources not found in cluster: 0
+
+
+Cluster 1 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_1000_cluster_1.png
+Catalogued sources found in cluster 1: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 418
+
+
+Cluster 2 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_1000_cluster_2.png
+Catalogued sources found in cluster 2: 0 (0.0%)
+Extra elements found: 9
+Catalogued sources not found in cluster: 418
+
+
+Cluster 3 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_1000_cluster_3.png
+Catalogued sources found in cluster 3: 0 (0.0%)
+Extra elements found: 16
+Catalogued sources not found in cluster: 418
+
+
+Cluster 4 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_1000_cluster_4.png
+Catalogued sources found in cluster 4: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Cluster 5 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_1000_cluster_5.png
+Catalogued sources found in cluster 5: 0 (0.0%)
+Extra elements found: 15
+Catalogued sources not found in cluster: 418
+
+
+Cluster 6 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_1000_cluster_6.png
+Catalogued sources found in cluster 6: 0 (0.0%)
+Extra elements found: 17
+Catalogued sources not found in cluster: 418
+
+
+Cluster 7 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_1000_cluster_7.png
+Catalogued sources found in cluster 7: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 418
+
+
+Cluster 8 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_1000_cluster_8.png
+Catalogued sources found in cluster 8: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Cluster 9 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_1000_cluster_9.png
+Catalogued sources found in cluster 9: 0 (0.0%)
+Extra elements found: 11
+Catalogued sources not found in cluster: 418
+
+
+Cluster 10 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_1000_cluster_10.png
+Catalogued sources found in cluster 10: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 418
+
+
+Cluster 11 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_1000_cluster_11.png
+Catalogued sources found in cluster 11: 0 (0.0%)
+Extra elements found: 12
+Catalogued sources not found in cluster: 418
+
+
+Cluster 12 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_1000_cluster_12.png
+Catalogued sources found in cluster 12: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Cluster 13 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_1000_cluster_13.png
+Catalogued sources found in cluster 13: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 418
+
+
+Cluster 14 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_1000_cluster_14.png
+Catalogued sources found in cluster 14: 0 (0.0%)
+Extra elements found: 14
+Catalogued sources not found in cluster: 418
+
+
+Cluster 15 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_1000_cluster_15.png
+Catalogued sources found in cluster 15: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 418
+
+
+Cluster 16 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_1000_cluster_16.png
+Catalogued sources found in cluster 16: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Cluster 17 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_1000_cluster_17.png
+Catalogued sources found in cluster 17: 0 (0.0%)
+Extra elements found: 10
+Catalogued sources not found in cluster: 418
+
+
+Cluster 18 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_1000_cluster_18.png
+Catalogued sources found in cluster 18: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Cluster 19 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_1000_cluster_19.png
+Catalogued sources found in cluster 19: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 418
+
+
+Cluster 20 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_1000_cluster_20.png
+Catalogued sources found in cluster 20: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 418
+
+
+Cluster 21 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_1000_cluster_21.png
+Catalogued sources found in cluster 21: 0 (0.0%)
+Extra elements found: 10
+Catalogued sources not found in cluster: 418
+
+
+Cluster 22 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_1000_cluster_22.png
+Catalogued sources found in cluster 22: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 418
+
+
+Cluster 23 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_1000_cluster_23.png
+Catalogued sources found in cluster 23: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Cluster 24 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_1000_cluster_24.png
+Catalogued sources found in cluster 24: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 418
+
+
+Cluster 25 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_1000_cluster_25.png
+Catalogued sources found in cluster 25: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 418
+
+
+Cluster 26 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_1000_cluster_26.png
+Catalogued sources found in cluster 26: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 418
+
+
+Cluster 27 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_1000_cluster_27.png
+Catalogued sources found in cluster 27: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Cluster 28 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_1000_cluster_28.png
+Catalogued sources found in cluster 28: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 418
+
+
+Cluster 29 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_1000_cluster_29.png
+Catalogued sources found in cluster 29: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Cluster 30 -> ./test_2//AA_661_A118/output/report_20230814T154241/UBC1004_DBSCAN_20230814T154241/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_1000_cluster_30.png
+Catalogued sources found in cluster 30: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
